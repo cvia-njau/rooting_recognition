@@ -1,6 +1,5 @@
 # rooting_recognition
 ## Reference
----------
 If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper:<br>
 @misc{rooting_action_recogniton, <br>
   author = {Ruotong Yang and Zikang Chen and Huanliang Xu and Mingxia Shen and Pinghua Li and Tomas Norton and Mingzhou Lu}, <br>
